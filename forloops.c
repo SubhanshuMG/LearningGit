@@ -7,3 +7,4 @@ for(i=0; i=10; i++){
 }
 
 printf("done with for");
+printf("dont forget while loops");
